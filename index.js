@@ -1,5 +1,5 @@
 //connect to twitter
-require('dotenv').config()
+require('dotenv').config();
 const Twitter = require('twitter');
 const Sheet = require('./sheet');
 
